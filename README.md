@@ -16,7 +16,7 @@ EWU runs a programming club where undergraduate students get help. Club has a co
 
 **Operating System:** Linux
 
-**To run this file we used these command line arguments:**
+**To run this 'projectCode.c' file, we used these command line arguments in terminal:**
 
  gcc projectCode.c -o thread -lpthread
 
