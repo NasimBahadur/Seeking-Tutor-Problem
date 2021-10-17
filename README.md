@@ -16,6 +16,12 @@ EWU runs a programming club where undergraduate students get help. Club has a co
 
 **Operating System:** Linux
 
+**To run this file we used these command line arguments:**
+
+ gcc projectCode.c -o thread -lpthread
+
+ ./thread
+
 # Flowchart
 ![Screenshot from 2021-10-15 21-47-55](https://user-images.githubusercontent.com/43060004/137521011-59df24d9-bb8c-4b21-9095-858b1bf314c4.png)
 
