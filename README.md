@@ -23,25 +23,25 @@ EWU runs a programming club where undergraduate students get help. Club has a co
  ./thread
 
 # Flowchart
-![Screenshot from 2021-10-15 21-47-55](https://user-images.githubusercontent.com/43060004/137521011-59df24d9-bb8c-4b21-9095-858b1bf314c4.png)
+![Whole diagram of the system](https://user-images.githubusercontent.com/43060004/137521011-59df24d9-bb8c-4b21-9095-858b1bf314c4.png)
 
 **Student has 3 parts:**
 1. Student has to start programming and seek help from a tutor, student needs to get a seat.  After coming to get seat, if student does not find any seat, then has to go back to programming and try again later.
 2. If a student gets a seat then coordinator gets a notice and then wait for tutor to be assigned
 3. After getting maximum amount of help, the student will stop seeking help .
 
-![1](https://user-images.githubusercontent.com/43060004/137521003-b8fca3e5-eabd-495b-831e-5c4c84004efa.png)
+![student activity](https://user-images.githubusercontent.com/43060004/137521003-b8fca3e5-eabd-495b-831e-5c4c84004efa.png)
 
 **Coordinator has 3 parts:**
 1. The coordinator waits for students to come to seek help.
 2. Prioritize students according to who has come first.
 3. If all students leave then coordinator notify the tutor and leaves .
 
-![2](https://user-images.githubusercontent.com/43060004/137521007-8b387dc4-d5f2-4669-81ba-bdf77d14f11a.png)
+![Coordinator activity](https://user-images.githubusercontent.com/43060004/137521007-8b387dc4-d5f2-4669-81ba-bdf77d14f11a.png)
 
 **Tutor has 3 parts:**
 1. Tutor waits for the coordinator to be notified if a student has come to seek help.
 2. Tutor selects to student to help according to the priority of the student
 3. If all students have done seeking help from the tutor, the tutor waits for coordinators notification to finish work.
 
-![3](https://user-images.githubusercontent.com/43060004/137521009-21d51a19-0680-4555-aeb1-228fb91c0bdc.png)
+![Tutor activity](https://user-images.githubusercontent.com/43060004/137521009-21d51a19-0680-4555-aeb1-228fb91c0bdc.png)
