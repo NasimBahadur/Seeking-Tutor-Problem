@@ -30,14 +30,10 @@ EWU runs a programming club where undergraduate students get help. Club has a co
 2. If a student gets a seat then coordinator gets a notice and then wait for tutor to be assigned
 3. After getting maximum amount of help, the student will stop seeking help .
 
-![student activity](https://user-images.githubusercontent.com/43060004/137521003-b8fca3e5-eabd-495b-831e-5c4c84004efa.png)
-
 **Coordinator has 3 parts:**
 1. The coordinator waits for students to come to seek help.
 2. Prioritize students according to who has come first.
 3. If all students leave then coordinator notify the tutor and leaves .
-
-![Coordinator activity](https://user-images.githubusercontent.com/43060004/137521007-8b387dc4-d5f2-4669-81ba-bdf77d14f11a.png)
 
 **Tutor has 3 parts:**
 1. Tutor waits for the coordinator to be notified if a student has come to seek help.
@@ -45,3 +41,8 @@ EWU runs a programming club where undergraduate students get help. Club has a co
 3. If all students have done seeking help from the tutor, the tutor waits for coordinators notification to finish work.
 
 ![Tutor activity](https://user-images.githubusercontent.com/43060004/137521009-21d51a19-0680-4555-aeb1-228fb91c0bdc.png)
+
+![student activity](https://user-images.githubusercontent.com/43060004/137521003-b8fca3e5-eabd-495b-831e-5c4c84004efa.png)
+
+![Coordinator activity](https://user-images.githubusercontent.com/43060004/137521007-8b387dc4-d5f2-4669-81ba-bdf77d14f11a.png)
+
